@@ -6,8 +6,8 @@ RubyRM is a custom object relational database library that creates and maps Ruby
 To see this library in action, follow these steps:
 
 * Clone this repository
-* Load irb or pry in the terminal
-* Run load 'demo.rb'
+* Load `irb` or `pry` in the terminal
+* Run `load 'demo.rb'`
 * Test it out!
 
 For your reference, here are the tables in the demo database:
